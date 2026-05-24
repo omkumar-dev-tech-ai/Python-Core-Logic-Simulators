@@ -24,9 +24,9 @@ A simle Cafē simulation project build using Python and control structures.
 A simle Cafē simulation project build using Python and control structures.
 
 ## Features
-- Bike Rental menu
-- Desired  quantity functionality
-- Give Back rents functionality
+- Bike Rent menu
+- Desired quantity functionality
+- Return Back bike rent functionality
 - Interactive menu system
 
 ## Technologies Used
